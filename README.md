@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Alex Fang
 
 I'm a fresh graduate software engineer with experience in automation script writing.
-🎓 Computer Engineering student at Universiti Malaysia Perlis (UniMAP)
-💻 Passionate about Software Development, Automation, IoT, and AI
-🚀 Always learning, building, and refining new projects
-📚 Interests: Automation, Artificial Intelligence, Network-on-Chip (NoC) Design
+#🎓 Computer Engineering student at Universiti Malaysia Perlis (UniMAP)
+#💻 Passionate about Software Development, Automation, IoT, and AI
+#🚀 Always learning, building, and refining new projects
+#📚 Interests: Automation, Artificial Intelligence, Network-on-Chip (NoC) Design
 
 ## 🔧 Technologies & Tools
 - Python
