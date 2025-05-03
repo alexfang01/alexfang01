@@ -9,8 +9,9 @@ I'm a fresh graduate software engineer with experience in automation script writ
 ## 🔧 Technologies & Tools
 - Python
 - Verilog
-- Assembly (8085 & 8051)
+- Assembly Language (8085 & 8051)
 - ESP32 IoT
+- Arduino IDE
 - Website Development (PHP)
 
 ## 📈 GitHub Stats
