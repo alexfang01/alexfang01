@@ -16,6 +16,3 @@ I'm a fresh graduate software engineer with experience in automation script writ
 ## 📈 GitHub Stats
 ![AlexF's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfang01&show_icons=true&theme=radical)
 
-## 📫 Contact Me
-- Email: kxfang01@gmail.com
-- LinkedIn: [Fang (Alex) Kai Xiang](https://www.linkedin.com/in/fang-kai-xiang-a09b06223/)
